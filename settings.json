@@ -4,7 +4,7 @@
     "subtitle": "얼굴형에 맞는 안경 종류 추천",
     "footerText": "&copy; 태영태크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/v4jA8NV13/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/ax0zbL6j7x/",
     "classDetails": [
         {
             "name": "둥근형얼굴",
