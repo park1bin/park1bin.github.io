@@ -2,7 +2,7 @@
     "pageTitle": "얼굴형 진단 테스트",
     "mainTitle": "내 얼굴은 무슨 형일까?",
     "subtitle": "얼굴형에 맞는 안경 종류 추천",
-    "footerText": "&copy; 김독자 2024. All Rights Reserved.",
+    "footerText": "&copy; 태영태크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/v4jA8NV13/",
     "classDetails": [
